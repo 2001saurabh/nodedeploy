@@ -9,4 +9,4 @@ app.listen(PORT, () => {
   console.log("server is running on port ", PORT);
 });
 
-//module.exports = app;
+module.exports = app;
